@@ -1,0 +1,5 @@
+{"id":"sfdfafd", "type": "FINISHED","timestamp": 1491377495212}{"id":"sfdfafd", "type": "STARTED","timestamp": 1491377495217}
+{"id":"sdfsfsg", "timestamp": 1491377495222}
+{"id":"sdfsfsg", "timestamp": 1491377495221}
+{"id":"sfdfafa", "type": "STARTED","host": "test", "timestamp": 1491377495234}{"id":"sfdfafa",
+ "type": "FINISHED","host": "test","timestamp": 1491377495245}
